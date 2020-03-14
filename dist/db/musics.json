@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "img": "album1.jpg",
+    "imgSm": "album1-sm.jpg",
+    "title": "Taste of Rock and Roll.",
+    "audio": "taste-of-rock-and-roll"
+  },
+  {
+    "id": 2,
+    "img": "album2.jpg",
+    "imgSm": "album2-sm.jpg",
+    "title": "Dancing with Lucifer.",
+    "audio": "dancing-with-lucifer"
+  },
+  {
+    "id": 3,
+    "img": "album3.jpg",
+    "imgSm": "album3-sm.jpg",
+    "title": "Eyes and Sune Over me.",
+    "audio": "over-my-dead-body"
+  },
+  {
+    "id": 4,
+    "img": "album4.jpg",
+    "imgSm": "album4-sm.jpg",
+    "title": "Behind her Blue Eyes.",
+    "audio": "behind-blue-eyes"
+  },
+  {
+    "id": 5,
+    "img": "album5.jpg",
+    "imgSm": "album5-sm.jpg",
+    "title": "Broken.",
+    "audio": "broken"
+  }
+]

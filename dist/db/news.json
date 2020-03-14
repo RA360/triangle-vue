@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "title": "Great Music Production Presents the Best",
+    "desc": "This year’s fourth annual Acoustic-4-A Cure show created and curated by James and Sammy Hagar will be held on Monday, May 15, 2017 at San Francisco’s historic Fillmore Theater.",
+    "img": "news1.jpg",
+    "imgSm": "news1-sm.jpg",
+    "date": "March 11, 2020"
+  },
+  {
+    "id": 2,
+    "title": "Ever done this before",
+    "desc": "The Liverpool goalkeeper missed seven games at the start of the season after coming off injured during the first-half against Norwich on the opening day and then worked his way back into form.",
+    "img": "news2.jpg",
+    "imgSm": "news2-sm.jpg",
+    "date": "March 13, 2020"
+  },
+  {
+    "id": 3,
+    "title": "A great tool for a great music experience",
+    "desc": "The Tōdai-ji concert brought together Japanese and Western musicians playing music showing the influences of both cultures. The musicians included Bob Dylan, Jon Bon Jovi, Joni Mitchell and INXS.",
+    "img": "news3.jpg",
+    "imgSm": "news3-sm.jpg",
+    "date": "March 14, 2020"
+  },
+  {
+    "id": 4,
+    "title": "Person Holding a Microphone While Singing at Stage",
+    "desc": "On 17 August 2006 as part of the events marking the 20th anniversary of The Beatles final show in Boston. Included in this broadcast was about twenty seconds taken from the above mentioned home movie showing George singing.",
+    "img": "news4.jpg",
+    "imgSm": "news4-sm.jpg",
+    "date": "March 16, 2020"
+  }
+]
