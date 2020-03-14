@@ -1,4 +1,4 @@
-# music
+# Triangle
 
 ## Project setup
 ```
