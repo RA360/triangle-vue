@@ -22,10 +22,8 @@
     transform: translate(-50%, -50%);
   }
   &__title {
-    // font-family: "Karla", sans-serif;
     font-size: 438px;
     line-height: normal;
-    // margin-top: -180px;
   }
   &__txt {
     font-size: 33px;
