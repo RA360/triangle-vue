@@ -89,12 +89,9 @@ export default {
   margin-bottom: 70px;
   &__img {
     width: 25.52%;
-    // width: 320px;
-    // height: 320px;
   }
   &__content {
     width: calc(74.48% - 50px);
-    // width: calc(100% - 370px);
   }
   &__title {
     text-transform: uppercase;
@@ -116,19 +113,6 @@ export default {
     flex-direction: column;
     margin: 0 12px 24px;
   }
-  // &__head {
-  //   position: relative;
-  // }
-  // &__play {
-  //   background: url("assets/img/play2.svg") no-repeat center / cover;
-  //   width: 5.68%;
-  //   height: 7.39%;
-  //   position: absolute;
-  //   top: 50%;
-  //   left: 50%;
-  //   transform: translate(-50%, -50%);
-  //   cursor: pointer;
-  // }
   &__title {
     font: 19px/1.315 "PlayfairDisplay-Regular", sans-serif;
     letter-spacing: 0.0326em;
@@ -160,17 +144,11 @@ export default {
 
 @media screen and (max-width: 992px) {
   .music {
-    // &__img {
-    //   // width: 263px;
-    //   // height: 263px;
-    // }
     &__img {
       width: 30.52%;
     }
     &__content {
       width: calc(69.48% - 25px);
-      // width: calc(74.48% - 25px);
-      // width: calc(100% - 288px);
     }
     &__title {
       font-size: 55px;
