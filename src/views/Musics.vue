@@ -19,12 +19,6 @@
       <div class="musics">
         <p v-if="!musics" class="loading">Loading...</p>
         <div class="musics__card" v-for="(music,index) in musics" :key="index">
-          <!-- <div class="musics__head">
-            <div class="fill">
-              <img :src="require(`@/assets/img/${music.imgSm}`)" class="full-width" alt />
-            </div>
-            <div class="musics__play"></div>
-          </div>-->
           <router-link :to="`/musics/${music.id}`" class="fill">
             <img :src="require(`@/assets/img/${music.imgSm}`)" class="full-width" alt />
           </router-link>
