@@ -1,5 +1,4 @@
 <template>
-  <!-- params: {title: news.title.toLowerCase().replace(/\s+/g, '-')} -->
   <section class="news">
     <div class="container">
       <ul class="news__list">
@@ -50,56 +49,3 @@ export default {
   }
 };
 </script>
-<style lang="scss">
-// .news {
-//   position: relative;
-//   padding-top: 70px;
-//   &__list {
-//     display: flex;
-//     flex-wrap: wrap;
-//   }
-//   &__title {
-//     font: 42px/1.388 "PlayfairDisplay-Regular", sans-serif;
-//     word-break: break-word;
-//   }
-//   &__card {
-//     display: flex;
-//     flex-direction: column;
-//     width: calc(33.3333% - 66px);
-//     margin: 0 33px 66px;
-//     &-title {
-//       flex-grow: 1;
-//       margin-top: 39px;
-//     }
-//   }
-//   &__head {
-//     &::before,
-//     &::after {
-//       transition: all 0.2s linear;
-//     }
-//     &::after {
-//       opacity: 0;
-//       content: "Read More";
-//       font-size: 22px;
-//       letter-spacing: 0.032em;
-//       position: absolute;
-//       top: 50%;
-//       left: 50%;
-//       transform: translate(-50%, -50%);
-//     }
-//     &:hover {
-//       &::before {
-//         opacity: 0.9;
-//       }
-//       &::after {
-//         opacity: 1;
-//       }
-//     }
-//   }
-//   &__txt {
-//     flex-grow: 0;
-//     margin-top: 33px;
-//   }
-// }
-//
-</style>
