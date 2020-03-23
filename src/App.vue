@@ -34,7 +34,6 @@
             <source src="@/assets/audios/bg.mp3" type="audio/mpeg" />
             <source src="@/assets/audios/bg.mp3" type="audio/ogg" />
           </audio>
-          <!-- <button v-if="openDropdown" class="cross" @click="openDropdown=false"></button> -->
           <button
             class="hamburger"
             @click="openDropdown=!openDropdown"
