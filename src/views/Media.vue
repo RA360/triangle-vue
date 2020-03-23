@@ -128,8 +128,6 @@ export default {
   top: calc(50vh - 88px);
   left: 50%;
   transform: translateX(-50%);
-  // right: 28px;
-  // margin-top: 200px;
   &__item {
     margin: 12px 0;
   }
