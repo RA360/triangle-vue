@@ -68,21 +68,3 @@ export default {
   }
 };
 </script>
-
-<style lang="scss">
-// .news {
-//   &__post {
-//     display: flex;
-//     align-items: flex-start;
-//     justify-content: space-between;
-//     margin-bottom: 70px;
-//     &-part {
-//       width: calc(50% - 30px);
-//     }
-//   }
-//   &__desc {
-//     line-height: 1.96;
-//   }
-// }
-//
-</style>
