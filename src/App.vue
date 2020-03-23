@@ -286,7 +286,6 @@ video {
   top: 80px;
   left: 0;
   z-index: 999;
-  // transition: all 0.2s ease;
 }
 
 .loading {
