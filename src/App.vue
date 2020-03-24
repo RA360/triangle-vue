@@ -30,10 +30,7 @@
             <div class="spectr spectr4"></div>
             <div class="spectr spectr5"></div>
           </div>
-          <audio ref="bgAudio" class="bg-audio" autoplay muted loop>
-            <source src="@/assets/audios/bg.mp3" type="audio/mpeg" />
-            <source src="@/assets/audios/bg.mp3" type="audio/ogg" />
-          </audio>
+          <audio ref="bgAudio" class="bg-audio" src="@/assets/audios/bg.mp3" autoplay muted loop></audio>
           <button
             class="hamburger"
             @click="openDropdown=!openDropdown"
